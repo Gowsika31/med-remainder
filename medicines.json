@@ -1,0 +1,344 @@
+[
+    {
+        "id": 1,
+        "name": "Aspirin",
+        "dosage": "100mg",
+        "times": [
+            "20:52",
+            "21:00"
+        ],
+        "notes": "Take after dinner",
+        "active": true,
+        "created_at": "2025-10-30 20:52:25"
+    },
+    {
+        "id": 2,
+        "name": "Vitamin C",
+        "dosage": "500mg",
+        "times": [
+            "21:09"
+        ],
+        "notes": "Test reminder",
+        "active": true,
+        "created_at": "2025-10-30 21:08:00"
+    },
+    {
+        "id": 3,
+        "name": "vitamin c",
+        "dosage": "500mg",
+        "times": [
+            "21:11"
+        ],
+        "notes": "test remainder",
+        "active": true,
+        "created_at": "2025-10-30 21:10:26"
+    },
+    {
+        "id": 4,
+        "name": "vitamin d",
+        "dosage": "400mg",
+        "times": [
+            "21:14"
+        ],
+        "notes": "take after lunch",
+        "active": true,
+        "created_at": "2025-10-30 21:12:20"
+    },
+    {
+        "id": 5,
+        "name": "vitamin e",
+        "dosage": "500mg",
+        "times": [
+            "21:17"
+        ],
+        "notes": "take after dinner",
+        "active": true,
+        "created_at": "2025-10-30 21:15:12"
+    },
+    {
+        "id": 6,
+        "name": "vitamin c",
+        "dosage": "100mg",
+        "times": [
+            "21:24"
+        ],
+        "notes": "take after dinner",
+        "active": true,
+        "created_at": "2025-10-30 21:22:45"
+    },
+    {
+        "id": 7,
+        "name": "aspirin",
+        "dosage": "600mg",
+        "times": [
+            "21:29"
+        ],
+        "notes": "take after dinner",
+        "active": true,
+        "created_at": "2025-10-30 21:27:47"
+    },
+    {
+        "id": 8,
+        "name": "vitamin c",
+        "dosage": "300mg",
+        "times": [
+            "21:31"
+        ],
+        "notes": "take after dinner",
+        "active": false,
+        "created_at": "2025-10-30 21:30:22"
+    },
+    {
+        "id": 9,
+        "name": "vitamin c",
+        "dosage": "500mg",
+        "times": [
+            "21:34"
+        ],
+        "notes": "take after dinner",
+        "active": true,
+        "created_at": "2025-10-30 21:33:34"
+    },
+    {
+        "id": 10,
+        "name": "vitamin c",
+        "dosage": "600mg",
+        "times": [
+            "22:05"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-30 22:04:17"
+    },
+    {
+        "id": 11,
+        "name": "aspirin",
+        "dosage": "590mg",
+        "times": [
+            "22:06"
+        ],
+        "notes": "before dinner",
+        "active": true,
+        "created_at": "2025-10-30 22:06:04"
+    },
+    {
+        "id": 12,
+        "name": "vitamin d",
+        "dosage": "700mg",
+        "times": [
+            "22:08"
+        ],
+        "notes": "before dinner",
+        "active": true,
+        "created_at": "2025-10-30 22:07:14"
+    },
+    {
+        "id": 13,
+        "name": "vitamin c",
+        "dosage": "500mg",
+        "times": [
+            "22:09"
+        ],
+        "notes": "before dinner",
+        "active": true,
+        "created_at": "2025-10-30 22:09:06"
+    },
+    {
+        "id": 14,
+        "name": "vitamin c",
+        "dosage": "600mg",
+        "times": [
+            "22:11"
+        ],
+        "notes": "before dinner",
+        "active": true,
+        "created_at": "2025-10-30 22:10:10"
+    },
+    {
+        "id": 15,
+        "name": "vitamin c",
+        "dosage": "500mg",
+        "times": [
+            "13:55"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 13:55:01"
+    },
+    {
+        "id": 16,
+        "name": "vitamin c",
+        "dosage": "500mg",
+        "times": [
+            "13:56"
+        ],
+        "notes": "after dinner",
+        "active": false,
+        "created_at": "2025-10-31 13:55:39"
+    },
+    {
+        "id": 17,
+        "name": "vitamin d",
+        "dosage": "50mg",
+        "times": [
+            "13:57"
+        ],
+        "notes": "after lunch",
+        "active": true,
+        "created_at": "2025-10-31 13:56:48"
+    },
+    {
+        "id": 18,
+        "name": "vitamin a",
+        "dosage": "400mg",
+        "times": [
+            "13:58"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 13:57:42"
+    },
+    {
+        "id": 19,
+        "name": "vitamin d",
+        "dosage": "500mg",
+        "times": [
+            "14:00"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 13:59:22"
+    },
+    {
+        "id": 20,
+        "name": "vitamin d",
+        "dosage": "700mg",
+        "times": [
+            "14:01"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 14:00:49"
+    },
+    {
+        "id": 21,
+        "name": "vitamin a",
+        "dosage": "700mg",
+        "times": [
+            "14:03"
+        ],
+        "notes": "after lunch",
+        "active": true,
+        "created_at": "2025-10-31 14:02:11"
+    },
+    {
+        "id": 22,
+        "name": "vitamin d",
+        "dosage": "500mg",
+        "times": [
+            "15:03"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:02:59"
+    },
+    {
+        "id": 23,
+        "name": "vitamin d",
+        "dosage": "500mg",
+        "times": [
+            "15:04"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:03:40"
+    },
+    {
+        "id": 24,
+        "name": "vitamin c",
+        "dosage": "400mg",
+        "times": [
+            "15:05"
+        ],
+        "notes": "before dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:04:35"
+    },
+    {
+        "id": 25,
+        "name": "vitamin c",
+        "dosage": "400mg",
+        "times": [
+            "15:06"
+        ],
+        "notes": "after lunch",
+        "active": true,
+        "created_at": "2025-10-31 15:05:43"
+    },
+    {
+        "id": 26,
+        "name": "vitamin d",
+        "dosage": "500mg",
+        "times": [
+            "15:26"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:25:24"
+    },
+    {
+        "id": 27,
+        "name": "vitamin c",
+        "dosage": "500mg",
+        "times": [
+            "15:28"
+        ],
+        "notes": "before lunch",
+        "active": true,
+        "created_at": "2025-10-31 15:27:41"
+    },
+    {
+        "id": 28,
+        "name": "vitamin a",
+        "dosage": "500mg",
+        "times": [
+            "15:36"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:35:12"
+    },
+    {
+        "id": 29,
+        "name": "LeenaSri",
+        "dosage": "500mg",
+        "times": [
+            "15:38"
+        ],
+        "notes": "after lunch",
+        "active": true,
+        "created_at": "2025-10-31 15:37:14"
+    },
+    {
+        "id": 30,
+        "name": "Dolo",
+        "dosage": "250mg",
+        "times": [
+            "15:39"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:39:00"
+    },
+    {
+        "id": 31,
+        "name": "leena",
+        "dosage": "600mg",
+        "times": [
+            "15:42"
+        ],
+        "notes": "after dinner",
+        "active": true,
+        "created_at": "2025-10-31 15:41:15"
+    }
+]
