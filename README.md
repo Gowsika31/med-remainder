@@ -1,3 +1,6 @@
+# Medicine Reminder System
+
 ## Project Screenshot
 
-![Medicine Reminder App](screenshot.png)
+![Medicine Reminder](screenshot.png)
+
